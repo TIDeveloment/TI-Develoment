@@ -1,5 +1,3 @@
-<!-- ![Demo](document/img.png) -->
-
 # TI DEVELOMENT
 
 ## Getting Started
